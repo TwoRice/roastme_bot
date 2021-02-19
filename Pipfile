@@ -13,6 +13,8 @@ psraw = "*"
 matplotlib = "*"
 tqdm = "*"
 ipywidgets = "*"
+pillow = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.6"
