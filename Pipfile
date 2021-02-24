@@ -15,6 +15,7 @@ tqdm = "*"
 ipywidgets = "*"
 pillow = "*"
 pandas = "*"
+bs4 = "*"
 
 [requires]
 python_version = "3.6"
