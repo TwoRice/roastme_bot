@@ -15,7 +15,10 @@ tqdm = "*"
 ipywidgets = "*"
 pillow = "*"
 pandas = "*"
-bs4 = "*"
+sklearn = "*"
+tensorflow = "*"
+nltk = "*"
+keras-vggface = {git = "https://github.com/rcmalli/keras-vggface.git"}
 
 [requires]
 python_version = "3.6"
