@@ -21,4 +21,4 @@ nltk = "*"
 keras-vggface = {git = "https://github.com/rcmalli/keras-vggface.git"}
 
 [requires]
-python_version = "3.6"
+python_version = "3.11"
