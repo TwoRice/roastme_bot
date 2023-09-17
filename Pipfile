@@ -8,17 +8,17 @@ verify_ssl = true
 [packages]
 jupyterlab = "*"
 keras = "*"
-panda = "*"
 psraw = "*"
 matplotlib = "*"
 tqdm = "*"
 ipywidgets = "*"
 pillow = "*"
 pandas = "*"
-sklearn = "*"
 tensorflow = "*"
 nltk = "*"
 keras-vggface = {git = "https://github.com/rcmalli/keras-vggface.git"}
+scikit-learn = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.11"
